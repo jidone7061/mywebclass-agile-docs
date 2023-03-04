@@ -136,7 +136,7 @@ review this effectiveness before the next iteration of the project.
 
 ## Release Schedule
 
-| Release Version | Release Date | Features |
-|-----------------|--------------|----------|
-| 0.1.0           | TBD          | TBD      |
+| Release Version | Release Date  | Features                                       |
+|-----------------|---------------|------------------------------------------------|
+| 0.1.0           | March 4, 2023 | * Develop Web Site template <br/> * Ensure GDPR compliance with Google analytics <br/> * Build DevOps framework based on LEAN <br/> * Build testing for website 
 
