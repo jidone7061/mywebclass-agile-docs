@@ -6,3 +6,7 @@ As a quality assurance engineer, I want to be able to easily monitor the website
 - The quality assurance engineer should be able to access a dashboard that displays real-time website performance data.
 - The dashboard should show any errors or issues with the website.
 - The dashboard should include tools for troubleshooting and resolving any issues.
+
+### Tasks related to this item
+
+1. [Set up website monitoring dashboard](tasks/Epic1/S2task1.md)

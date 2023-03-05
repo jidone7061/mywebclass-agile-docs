@@ -7,3 +7,7 @@ As a web developer, I want to ensure the website template passes w3c validation,
 - The website must pass Lighthouse tests for performance, accessibility, best practices, and SEO.
 - The website must pass GDPR Scanner tests for compliance with the General Data Protection Regulation.
 - The web developer must be able to verify that the website template passes all tests.
+
+### Tasks related to this item
+
+1. [Ensure website template passes W3C, Lighthouse, and GDPR Scanner tests](tasks/Epic4/S1task1.md)

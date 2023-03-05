@@ -8,3 +8,10 @@ As a user, I want to know that the website I am using is trustworthy and complie
 - Legal documents are easily accessible and prominently displayed on the website.
 - Legal documents are written in clear and understandable language.
 - The website complies with relevant laws and regulations, such as data protection and consumer protection laws.
+
+
+### Tasks related to this item
+
+1. [Add links to legal documents on website](tasks/Epic2/S2task1.md)
+2. [Review and update legal documents](tasks/Epic2/S2task2.md)
+3. [Perform legal compliance audit](tasks/Epic2/S2task3.md)

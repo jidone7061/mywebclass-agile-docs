@@ -8,3 +8,7 @@ As a project manager, I want to track the effectiveness of every theme, initiati
 - Reports are available that provide an overview of each element's performance
 - Data is visualized in a way that is easy to understand and interpret
 - The system is easily accessible and can be used by all team members
+
+### Tasks related to this item
+
+1. [Set up project tracking system](tasks/Epic2/S1task1.md)
