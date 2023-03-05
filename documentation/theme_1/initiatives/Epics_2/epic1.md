@@ -33,6 +33,6 @@
 
 
 # List stories related to this Epic
-1. As a developer, I want to automate the software build and testing process, so I can focus on developing new features.
-2. As a tester, I want to automate the testing process, so I can identify defects faster and improve the quality of software releases.
-3. As a project manager, I want to reduce manual effort and increase efficiency, so the team can deliver software releases faster and with higher quality.
+1. [As a developer, I want to automate the software build and testing process, so I can focus on developing new features.](stories/E1story1.md)
+2. [As a tester, I want to automate the testing process, so I can identify defects faster and improve the quality of software releases.](stories/E1story2.md)
+3. [As a project manager, I want to reduce manual effort and increase efficiency, so the team can deliver software releases faster and with higher quality.](stories/E1story3.md)

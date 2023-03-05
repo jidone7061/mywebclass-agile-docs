@@ -7,3 +7,7 @@ As a project manager, I want to have visibility into the number of defects, thei
 - Reports and metrics can be generated on demand and at regular intervals.
 - Reports and metrics provide an accurate representation of the state of defects in the project.
 - The defect tracking system integrates with other project management tools to provide a holistic view of project status.
+
+### Tasks related to this item
+
+1. 

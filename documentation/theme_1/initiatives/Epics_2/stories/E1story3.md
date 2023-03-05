@@ -9,3 +9,7 @@ As a project manager, I want to reduce manual effort and increase efficiency, so
 - The issue tracking system should be configured to notify team members of any new issues.
 - The issue tracking system should be used to track and prioritize issues.
 - The project manager should be able to view the status of all issues related to the automated build and testing process.
+
+### Tasks related to this item
+
+1. 

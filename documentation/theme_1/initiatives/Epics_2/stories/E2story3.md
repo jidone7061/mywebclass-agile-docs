@@ -6,3 +6,6 @@ As a project manager, I want to reduce manual effort and increase efficiency, so
 - Automated testing is implemented for all areas of the software.
 - Test results are easily accessible and actionable.
 - The team's overall efficiency and speed of software releases improves.
+### Tasks related to this item
+
+1. 

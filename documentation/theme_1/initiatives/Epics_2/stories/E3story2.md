@@ -8,3 +8,7 @@ As a tester, I want to be able to report software defects easily and have visibi
 - The defect tracking system provides visibility into the status of each defect, including whether it has been resolved or is still open.
 - The defect tracking system sends notifications to testers when the status of a defect changes.
 - Testers are able to add comments and attachments to defects to provide additional information.
+
+### Tasks related to this item
+
+1. 

@@ -1,4 +1,4 @@
-## #User Story 2
+### User Story 2
 
 As a tester, I want to automate the testing process, so I can identify defects faster and improve the quality of software releases.
 
@@ -9,3 +9,6 @@ As a tester, I want to automate the testing process, so I can identify defects f
 - The automated testing process should report the results of all executed tests.
 - The automated testing process should be triggered on every code commit to the repository.
 - The automated testing process should notify the development team of any test failures.
+### Tasks related to this item
+
+1. 

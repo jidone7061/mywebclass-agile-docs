@@ -8,3 +8,7 @@ As a tester, I want to understand the DevOps process, so I can ensure that the n
 - Testers should be provided with clear guidelines for testing each component of the DevOps process, including build, test, deploy, and monitoring.
 - Testers should be given access to the necessary tools and technologies to perform their testing tasks.
 - Testers should be able to provide feedback on the DevOps process to developers and project managers.
+
+### Tasks related to this item
+
+1. 
